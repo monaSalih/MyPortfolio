@@ -90,30 +90,21 @@ class CardsFooter extends React.Component {
                 </UncontrolledTooltip>
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
-                  color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  color="linkedin"
+                  href="www.linkedin.com/in/ 
+                  mona-alobisat-06
+                  "
                   id="tooltip837440414"
                   target="_blank"
                 >
                   <span className="btn-inner--icon">
-                    <i className="fa fa-facebook-square" />
+                    <i className="fab fa-linkedin" />
                   </span>
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip837440414">
                   Like us
                 </UncontrolledTooltip>
-                <Button
-                  className="btn-icon-only rounded-circle ml-1"
-                  color="dribbble"
-                  href="https://dribbble.com/creativetim"
-                  id="tooltip829810202"
-                  target="_blank"
-                >
-                  <span className="btn-inner--icon">
-                    <i className="fa fa-dribbble" />
-                  </span>
-                </Button>
-                <UncontrolledTooltip delay={0} target="tooltip829810202">
+                   <UncontrolledTooltip delay={0} target="tooltip829810202">
                   Follow us
                 </UncontrolledTooltip>
                 <Button

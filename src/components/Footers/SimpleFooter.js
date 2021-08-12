@@ -62,16 +62,16 @@ class SimpleFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  href="https://www.linkedin.com/feed/"
                   id="tooltip837440414"
                   target="_blank"
                 >
                   <span className="btn-inner--icon">
-                    <i className="fa fa-facebook-square" />
+                    <i className="fab fa-linkedin " />
                   </span>
                 </Button>
                 <UncontrolledTooltip delay={0} target="tooltip837440414">
-                  Like us
+                 Github Account
                 </UncontrolledTooltip>
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
